@@ -1,0 +1,12 @@
+/* Write your CSS here */
+
+.imageStyle {
+  height: 235px;
+  width: 175px;
+  border-radius: 5px;
+}
+
+.placeName {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+}
